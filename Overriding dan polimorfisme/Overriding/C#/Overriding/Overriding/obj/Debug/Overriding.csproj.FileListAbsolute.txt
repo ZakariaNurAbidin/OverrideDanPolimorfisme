@@ -1,0 +1,7 @@
+C:\Users\nurab\Music\Belajar OOP java\Overriding\C#\Overriding\Overriding\bin\Debug\Overriding.exe.config
+C:\Users\nurab\Music\Belajar OOP java\Overriding\C#\Overriding\Overriding\bin\Debug\Overriding.exe
+C:\Users\nurab\Music\Belajar OOP java\Overriding\C#\Overriding\Overriding\bin\Debug\Overriding.pdb
+C:\Users\nurab\Music\Belajar OOP java\Overriding\C#\Overriding\Overriding\obj\Debug\Overriding.csproj.AssemblyReference.cache
+C:\Users\nurab\Music\Belajar OOP java\Overriding\C#\Overriding\Overriding\obj\Debug\Overriding.csproj.CoreCompileInputs.cache
+C:\Users\nurab\Music\Belajar OOP java\Overriding\C#\Overriding\Overriding\obj\Debug\Overriding.exe
+C:\Users\nurab\Music\Belajar OOP java\Overriding\C#\Overriding\Overriding\obj\Debug\Overriding.pdb

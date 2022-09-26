@@ -1,0 +1,7 @@
+C:\Users\nurab\Music\Belajar OOP java\Polimorfisme\C#\Polimorfisme\Polimorfisme\bin\Debug\Polimorfisme.exe.config
+C:\Users\nurab\Music\Belajar OOP java\Polimorfisme\C#\Polimorfisme\Polimorfisme\bin\Debug\Polimorfisme.exe
+C:\Users\nurab\Music\Belajar OOP java\Polimorfisme\C#\Polimorfisme\Polimorfisme\bin\Debug\Polimorfisme.pdb
+C:\Users\nurab\Music\Belajar OOP java\Polimorfisme\C#\Polimorfisme\Polimorfisme\obj\Debug\Polimorfisme.csproj.AssemblyReference.cache
+C:\Users\nurab\Music\Belajar OOP java\Polimorfisme\C#\Polimorfisme\Polimorfisme\obj\Debug\Polimorfisme.csproj.CoreCompileInputs.cache
+C:\Users\nurab\Music\Belajar OOP java\Polimorfisme\C#\Polimorfisme\Polimorfisme\obj\Debug\Polimorfisme.exe
+C:\Users\nurab\Music\Belajar OOP java\Polimorfisme\C#\Polimorfisme\Polimorfisme\obj\Debug\Polimorfisme.pdb
